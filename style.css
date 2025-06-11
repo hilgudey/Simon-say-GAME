@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+}
+/* .box{
+    border: 2px;
+    border-style: solid;
+    width: 10rem;
+    height: 10rem;
+    display: inline-block;
+    
+} */
+#id{
+    display: flex;
+}
+.btn{
+     border: 2px;
+    border-style: solid;
+    width: 10rem;
+    height: 10rem;
+    display: inline-block;
+    margin: 0.5rem;
+    border-radius: 10%;
+}
+.red{
+    background-color: rgb(154, 68, 68);
+}   
+.green{
+    background-color: rgb(145, 230, 145);
+}
+.yellow{
+    background-color: rgb(188, 188, 83);
+}
+.blue{
+    background-color: rgb(82, 82, 156);
+}
+.flash{
+    background-color: white;
+}
+.userFlash{
+    background-color: green;
+}
